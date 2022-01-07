@@ -1,3 +1,4 @@
+ipmitool命令与ipmi服务交互
 查看bmcip
 	ipmitool lan print 1
 查看用户
